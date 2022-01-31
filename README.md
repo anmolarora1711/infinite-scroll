@@ -1,6 +1,6 @@
 # Infinite Scrolling Website
 
-A website that will continously load photos as you scroll
+A website that will continuously load photos as you scroll
 
 ![home](https://user-images.githubusercontent.com/70250104/150915460-7839b38d-7377-45a4-9d2d-502c0cc9cce9.PNG)
 
